@@ -1,0 +1,6 @@
+t1 = ('ab' , 'b')
+t2 = (1, 'book', 3)
+t3 = (1)
+print("type(t3)", type(t3))
+t4 = (1, )
+print("type(t4)", type(t4))
